@@ -9,7 +9,12 @@ Whatever comes as input update that in MySQL Database and access values from tha
 
 I just checked that i am not able to make a connection to MySQL from my php basically MySQL is unresponsive to anything i write regarding connections. I will try to write a code but not suer will be able to fix all bugs .(ATTACHED AS Project_1_full)
 
+BENEFITS OF PROJECT :
+Learned a lot in a week's time: Basic syntax of both MySQL and PHP .
+
 
 PROJECT 2:- 
 Using Angular and it feels very good to use.
 First project on single component attached .
+
+BENEFITS OF PROJECT: Saw the first glimpse of app making(my dream)
