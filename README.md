@@ -18,3 +18,5 @@ Using Angular and it feels very good to use.
 First project on single component attached .
 
 BENEFITS OF PROJECT: Saw the first glimpse of app making(my dream)
+
+I would really love to contribute in making the sports website and also the iitb sports app if I am given a chance.
