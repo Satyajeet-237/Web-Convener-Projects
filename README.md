@@ -13,9 +13,12 @@ BENEFITS OF PROJECT :
 Learned a lot in a week's time: Basic syntax of both MySQL and PHP .
 
 
+
 PROJECT 2:- 
 Using Angular and it feels very good to use.
 First project on single component attached .
+
+
 
 BENEFITS OF PROJECT: Saw the first glimpse of app making(my dream)
 
