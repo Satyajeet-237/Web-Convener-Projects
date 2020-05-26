@@ -1,0 +1,16 @@
+<div class="container">
+<table class="table_mine">  
+<thead>
+  <tr>
+    <th class="title_colour">Name</th>
+    <th class="title_colour">Roll Number</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr *ngFor="let data of userData">
+              <td class="center_data">{{data.name}}</td>
+              <td class="center_data">{{data.roll}}</td>
+  </tr>
+</tbody>
+</table>
+</div>
